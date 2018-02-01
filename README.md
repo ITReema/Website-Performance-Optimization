@@ -4,7 +4,7 @@
 ### Instructions Running:
 There are two ways for you to run the application:
 
-1. Navigate to [Website Performance Optimization portfolio]() 
+1. Navigate to [Website Performance Optimization portfolio](https://rawgit.com/ITReema/WebsitePerformanceOptimizationportfolio/master/index.html) 
 2. Clone the GitHub repository at:
 ```
   git clone https://github.com/ITReema/WebsitePerformanceOptimizationportfolio.git
@@ -34,8 +34,10 @@ There are two ways for you to run the application:
 3. Added async attribute to links (stylesheet and script).
 4. add media="print" to link print.min.css.
 
-* Result PageSpeed Insights
-the webpage received a speed score of 93/100 for Mobile and 92/100 for desktop.
+#### Result PageSpeed Insights: 
+
+the webpage received a speed score of 99/100 for Mobile and 95/100 for desktop.
+[Result](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Frawgit.com%2FITReema%2FWebsitePerformanceOptimizationportfolio%2Fmaster%2Findex.html&tab=desktop)
 
 #### Part 2: Optimize Frames per Second in pizza.html
 
