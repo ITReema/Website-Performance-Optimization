@@ -2,11 +2,10 @@
 
 
 ### Instructions Running:
-There are two ways for you to run the application:
 
 * Clone the GitHub repository at:
 ```
-  git clone https://github.com/ITReema/WebsitePerformanceOptimizationportfolio.git
+  git clone https://github.com/ITReema/Website-Performance-Optimization.git
 ```
 
 * if you want Open the application in localhost: 
