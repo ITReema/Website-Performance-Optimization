@@ -4,8 +4,7 @@
 ### Instructions Running:
 There are two ways for you to run the application:
 
-1. Navigate to [Website Performance Optimization portfolio](https://rawgit.com/ITReema/WebsitePerformanceOptimizationportfolio/master/index.html) 
-2. Clone the GitHub repository at:
+* Clone the GitHub repository at:
 ```
   git clone https://github.com/ITReema/WebsitePerformanceOptimizationportfolio.git
 ```
